@@ -8,3 +8,7 @@ libraries{
   github_enterprise
   docker
 }
+
+keywords{
+  merge = true
+}
