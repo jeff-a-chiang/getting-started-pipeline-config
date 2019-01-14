@@ -14,6 +14,7 @@ keywords{
 }
 
 stages{
+  merge = true
     prod_ready{
         static_code_analysis
         build
