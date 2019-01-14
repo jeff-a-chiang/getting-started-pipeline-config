@@ -12,3 +12,5 @@ libraries{
 keywords{
   merge = true
 }
+
+merge = true
