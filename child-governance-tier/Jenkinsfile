@@ -1,4 +1,1 @@
-stage(message){
-  echo message
-}
-build()
+static_code_analysis()
