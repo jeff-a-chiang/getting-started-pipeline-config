@@ -13,4 +13,9 @@ keywords{
   merge = true
 }
 
-merge = true
+stages{
+    prod_ready{
+        static_code_analysis
+        build
+    }
+}
